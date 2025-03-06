@@ -4,7 +4,7 @@
 🏫 - Em breve : Desenvolvimento de Sistemas na Fatec<br>
 📚 - Estudando C#, aprofundando JavaScript e CSS<br>
 📩 - Contate-me no email: eduguilhermebruscagim@gmail.com<br>
-😁 - Pronomes : Ele/Dele><br>
+😁 - Pronomes : Ele/Dele<br>
 🌐 - Idiomas : Português fluente/Nativo, Ingles Avançado<br>
 📚 - Cursos Extracurriculares : Ingles | Instituição : Mars Idiomas<br>
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=transparent&count_private=true)](https://github.com/EduuhBruscagim)<br><br>
