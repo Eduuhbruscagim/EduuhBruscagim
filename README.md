@@ -6,6 +6,7 @@
 📩 - Contate-me no email: eduguilhermebruscagim@gmail.com<br>
 😁 - Pronomes : Ele/Dele><br>
 🌐 - Idiomas : Português fluente/Nativo, Ingles Avançado<br>
+🌐 - Idiomas : Português fluente/Nativo, Ingles Espanhol<br>
 📚 - Cursos Extracurriculares : Ingles | Instituição : Mars Idiomas<br>
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=transparent&count_private=true&cache_seconds=60)](https://github.com/EduuhBruscagim)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduuhBruscagim&card_width=470&langs_count=8&theme=transparent)](https://github.com/EduuhBruscagim/github-readme-stats)<br>
