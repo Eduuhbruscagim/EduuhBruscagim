@@ -4,7 +4,7 @@
 🏫 - Em breve : Desenvolvimento de Sistemas na Fatec<br>
 📚 - Estudando C#, aprofundando JavaScript e CSS<br>
 📩 - Contate-me no email: eduguilhermebruscagim@gmail.com<br>
-📩 - Contate-me no email: eduguilhermebruscagim@gmail.com<br>
+blablablablablablabla
 😁 - Pronomes : Ele/Dele><br>
 🌐 - Idiomas : Português fluente/Nativo, Ingles Avançado<br>
 📚 - Cursos Extracurriculares : Ingles | Instituição : Mars Idiomas<br>
