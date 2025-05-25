@@ -27,4 +27,5 @@
 
 Site em <strong>desenvolvimento</strong> para hospedar meu jogo do TCC :
 <a href="https://from-the-abyss.netlify.app/">Clique para acessar o site</a>
+<a href="https://from-the-abyss-teste.netlify.app/">Clique para acessar o site teste</a>
 
