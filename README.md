@@ -1,5 +1,5 @@
 ## Olá, me chamo Eduardo Guilherme Bruscagim
-💻 - Hoje atuo como front-end<br>
+💻 - Hoje atuo como back-end<br>
 🏫 - Estudante da Etec - Curso : Desenvolvimento de Sistemas AMS<br> 
 🏫 - Em breve : Desenvolvimento de Sistemas na Fatec<br>
 📚 - Estudando C#, aprofundando JavaScript e CSS<br>
