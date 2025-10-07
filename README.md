@@ -77,11 +77,8 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 ---
 
 ### 🌐 Conecte-se Comigo:
-<div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/452229/instagram-1.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
-  </a>
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/349378/gmail.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
-  </a>
-  <a href="#" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/448234/linkedin.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
-  </a>
+<div> 
+  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
