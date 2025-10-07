@@ -4,7 +4,7 @@ Sou um desenvolvedor com foco em back-end atualmente, gosto de transformar ideia
 
 Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus conhecimentos em **JavaScript** e **CSS** para criar experiências completas.
 
-- 🏫 Cursando: **Desenvolvimento de Sistemas (AMS)**.
+- 🏫 Cursando: **Engenharia de Software**.
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado).
 - 📫 Contate-me: **eduguilhermebruscagim@gmail.com**
 
