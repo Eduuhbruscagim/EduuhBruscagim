@@ -38,10 +38,10 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 
 ### 🌐 Conecte-se Comigo:
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40" width="40"/>
+  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40" width="40" style="display: block;"/>
   </a>
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40"/>
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40" style="display: block;"/>
   </a>
 </div>
