@@ -37,7 +37,14 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 ---
 
 ### 🌐 Conecte-se Comigo:
-<div>
-  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">
+  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Link para o Instagram" height="40" width="40" />
+  </a>
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Link para o Gmail" height="40" width="40" />
+  </a>
+  <a href="#" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Link para o LinkedIn" height="40" width="40" />
+  </a>
+</p>
