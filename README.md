@@ -8,13 +8,12 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 - 🚀 Próximo passo: **Desenvolvimento de Sistemas** na Fatec.
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado).
 - 📫 Contate-me: **eduguilhermebruscagim@gmail.com**
-- 😁 Pronomes: Ele/Dele
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true)](https://github.com/EduuhBruscagim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduuhBruscagim&layout=compact&theme=transparent&hide_border=true&count_private=true)](https://github.com/EduuhBruscagim/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduuhBruscagim&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
