@@ -42,6 +42,6 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
     <img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40" width="40" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40" style="margin-right: 10px;"/>
+    <img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" width="40" style="margin-right: 10px;"/>
   </a>
 </p>
