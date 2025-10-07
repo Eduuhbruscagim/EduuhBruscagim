@@ -1,11 +1,10 @@
 # Olá, me chamo Eduardo Guilherme Bruscagim 👋
 
-Sou um desenvolvedor com foco em back-end, apaixonado por transformar ideias em soluções funcionais com código. Atualmente, estou finalizando o curso de Desenvolvimento de Sistemas na Etec e me preparando para ingressar na Fatec.
+Sou um desenvolvedor com foco em back-end atualmente, gosto de transformar ideias em soluções funcionais com códigos para poupar tempo de ir em sites com anuncios. Atualmente, estou finalizando o curso de Desenvolvimento de Sistemas e me preparando para ingressar na Faculdade.
 
 Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus conhecimentos em **JavaScript** e **CSS** para criar experiências completas.
 
-- 🏫 Cursando: **Desenvolvimento de Sistemas (AMS)** na Etec.
-- 🚀 Próximo passo: **Desenvolvimento de Sistemas** na Fatec.
+- 🏫 Cursando: **Desenvolvimento de Sistemas (AMS)**.
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado).
 - 📫 Contate-me: **eduguilhermebruscagim@gmail.com**
 
@@ -32,7 +31,7 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 ### 🚀 Projetos em Destaque:
 
 #### 🎮 Site do Jogo "From the Abyss" (TCC)
-Site informativo desenvolvido para apresentar e hospedar o meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e informativa para os jogadores.
+Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com  isso
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
