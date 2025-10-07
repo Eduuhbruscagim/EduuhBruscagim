@@ -70,9 +70,6 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 #### 🎮 Site do Jogo "From the Abyss" (TCC)
 Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de aplicar e aprofundar meus conhecimentos em um projeto completo.
 
-<p align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Demonstração do site From the Abyss" width="600"/>
-</p>
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
@@ -80,8 +77,11 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 ---
 
 ### 🌐 Conecte-se Comigo:
-<div> 
-  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/452229/instagram-1.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
+  </a>
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/349378/gmail.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
+  </a>
+  <a href="#" target="_blank" style="display: inline-block; width: 40px; height: 40px; background-image: url(https://www.svgrepo.com/show/448234/linkedin.svg); background-size: contain; background-repeat: no-repeat; background-position: center;">
+  </a>
 </div>
