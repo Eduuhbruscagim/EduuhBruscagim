@@ -39,7 +39,7 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 ### 🌐 Conecte-se Comigo:
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="text-decoration: none !important;">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40" width="40" style="display: block;"/>
+    <img src="https://www.freepik.com/free-vector/instagram-icon_954290.htm#fromView=search&page=1&position=2&uuid=441e929b-34ad-4ea9-b156-3dfada732088&query=Instagram+icon+svg" height="40" width="40" style="display: block;"/>
   </a>
   <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="text-decoration: none !important;">
     <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40" style="display: block;"/>
