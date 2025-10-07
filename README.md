@@ -18,11 +18,11 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 
 ### 💻 Minhas Ferramentas e Tecnologias:
 <p align="center">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 ### 🚀 Projetos em Destaque:
 
 #### 🎮 Site do Jogo "From the Abyss" (TCC)
-Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com  isso
+Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com  isso
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
@@ -38,10 +38,10 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 
 ### 🌐 Conecte-se Comigo:
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="text-decoration: none !important;">
-    <img src="https://www.freepik.com/free-vector/instagram-icon_954290.htm#fromView=search&page=1&position=2&uuid=441e929b-34ad-4ea9-b156-3dfada732088&query=Instagram+icon+svg" height="40" width="40" style="display: block;"/>
-  </a>
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="text-decoration: none !important;">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40" style="display: block;"/>
-  </a>
+  <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40" width="40" style="display: block;"/>
+  </a>
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40" width="40" style="display: block;"/>
+  </a>
 </div>
