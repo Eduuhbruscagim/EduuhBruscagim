@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor com foco em back-end atualmente, gosto de transformar ideias em soluções funcionais com códigos para poupar tempo de ir em sites com anuncios. Atualmente, estou finalizando o curso de Desenvolvimento de Sistemas e me preparando para ingressar na Faculdade.
 
-Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus conhecimentos em **JavaScript** e **CSS** para criar experiências completas.
+Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus conhecimentos em **JavaScript** e **CSS** para criar projetos visualmente mais bonitos e completos.
 
 - 🏫 Cursando: **Engenharia de Software**.
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado).
