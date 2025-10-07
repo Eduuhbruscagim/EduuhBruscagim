@@ -37,9 +37,6 @@ Site informativo desenvolvido para apresentar e hospedar o meu jogo de TCC, um g
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
-
-*<p align="center">(coloque aqui um print ou GIF do seu site)</p>*
-
 ---
 
 ### 🌐 Conecte-se Comigo:
