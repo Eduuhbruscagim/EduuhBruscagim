@@ -11,19 +11,18 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 ---
 
 ### 📊 Minhas Estatísticas no GitHub:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true)](https://github.com/EduuhBruscagim/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EduuhBruscagim&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EduuhBruscagim)](https://git.io/streak-stats)
 ---
 
 ### 💻 Minhas Ferramentas e Tecnologias:
 <p align="center">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
@@ -31,15 +30,20 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 ### 🚀 Projetos em Destaque:
 
 #### 🎮 Site do Jogo "From the Abyss" (TCC)
-Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com  isso
+Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com isso.
+
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Demonstração do site From the Abyss" width="600"/>
+</p>
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
+
 ---
 
-
 ### 🌐 Conecte-se Comigo:
-<div>
+<div> 
   <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
