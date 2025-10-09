@@ -12,8 +12,8 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 
 ### 📊 Minhas Estatísticas no GitHub:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true)](https://github.com/EduuhBruscagim/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=EduuhBruscagim&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=EduuhBruscagim&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 💻 Minhas Ferramentas e Tecnologias:
