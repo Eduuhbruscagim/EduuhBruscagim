@@ -32,9 +32,6 @@ Estou sempre buscando aprender mais, com foco em **C#**, e aprofundando meus con
 #### 🎮 Site do Jogo "From the Abyss" (TCC)
 Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um game de plataforma 2D criado na Unity. O projeto foi focado em criar uma experiência visualmente agradável e divertida para os jogadores, além de nascer do meu desafio pessoal de desenvolver um projeto mais difícil e aprender mais com isso.
 
-<p align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Demonstração do site From the Abyss" width="600"/>
-</p>
 
 - **Tecnologias:** HTML5, CSS3, JavaScript.
 - **Link:** <a href="https://from-the-abyss-tcc.netlify.app/">**Acesse o site aqui!**</a>
@@ -45,5 +42,4 @@ Site informativo desenvolvido para apresentar e hospedar meu jogo de TCC, um gam
 <div> 
   <a href="https://www.instagram.com/eduuhbruscagim?igsh=MW44MmtpbjE3M2Y5dQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
