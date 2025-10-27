@@ -35,7 +35,7 @@ Um **jogo de plataforma 2D** desenvolvido na Unity, acompanhado de um site infor
 Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada detalhe, da programação à identidade visual, pra entregar algo divertido, fluido e bonito.
 
 - **Tecnologias:** HTML5, CSS3, JavaScript, Unity (C#)  
-- **Link do site:** [🎮 From the Abyss](https://from-the-abyss-tcc.netlify.app/)
+- **Link do site:** [🔗 Acesse aqui](https://from-the-abyss-tcc.vercel.app/)  
 - **Principais aprendizados:** organização de assets, lógica de programação, otimização geral, responsividade e criação de arte.  
 
 ---
