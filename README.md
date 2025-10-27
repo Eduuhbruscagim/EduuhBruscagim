@@ -1,16 +1,16 @@
 # 👋 Olá! Eu sou o Eduardo Guilherme Bruscagim  
 
-Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais e bem estruturadas.  
-Atualmente, estou finalizando o curso técnico de **Desenvolvimento de Sistemas** e me preparando para ingressar na faculdade de **Engenharia de Software**.  
+Sou um desenvolvedor que adora colocar minhas ideias na prática.  
+Atualmente, estou já finalizei o curso técnico de **Análise e Desenvolvimento de Sistemas** e estou na FATEC cursando **Engenharia de Software**.  
 
-Tenho foco principal em **C# (Back-End)** e estou sempre aprimorando meus conhecimentos em **JavaScript** e **CSS**, buscando unir performance e design em cada projeto.  
-Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irritantes — porque tempo é precioso demais pra ser desperdiçado.  
+Tenho foco principal em **Back-End** e estou sempre aprimorando meus conhecimentos, busco sempre unir utilidade e design em cada projeto.  
+Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irritantes, porque tempo é precioso demais pra ser desperdiçado.  
 
 ---
 
 ### 🧠 Sobre mim  
-- 🎯 Foco atual: **Desenvolvimento Back-End em C#**  
-- 🏫 Formação: **Engenharia de Software (em andamento)**  
+- 🎯 Foco atual: **Desenvolvimento Back-End**  
+- 🏫 Formação: **Engenharia de Software**  
 - 🌍 Idiomas: **Português (nativo)** | **Inglês (avançado)**  
 - 💡 Interesses: jogos 2D, automação, sistemas web e otimização de desempenho  
 - 📫 Contato: **eduguilhermebruscagim@gmail.com**
@@ -32,11 +32,11 @@ Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irrita
 
 #### 🎮 **From The Abyss – Jogo & Site (TCC)**  
 Um **jogo de plataforma 2D** desenvolvido na Unity, acompanhado de um site informativo criado para apresentá-lo.  
-Esse projeto foi meu maior desafio técnico até agora — fiz questão de cuidar de cada detalhe, da programação à identidade visual, pra entregar algo divertido, fluido e bonito.
+Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada detalhe, da programação à identidade visual, pra entregar algo divertido, fluido e bonito.
 
 - **Tecnologias:** HTML5, CSS3, JavaScript, Unity (C#)  
-- **Link do site:** [🔗 Acesse aqui](https://from-the-abyss-tcc.netlify.app/)  
-- **Principais aprendizados:** organização de assets, lógica de colisão 2D, otimização de performance e responsividade do front-end.  
+- **Link do site:** [🔗 Acesse aqui](https://from-the-abyss.vercel.app/)  
+- **Principais aprendizados:** organização de assets, lógica de programação, otimização geral, responsividade e criação de arte.  
 
 ---
 
@@ -57,5 +57,5 @@ Esse projeto foi meu maior desafio técnico até agora — fiz questão de cuida
 ---
 
 ### ✨ Curiosidade  
-💬 *“O código é a arte de transformar lógica em algo quase humano — e eu adoro esse processo.”*
+💬 *Para mim o código é a arte de transformar lógica em algo utíl e necessário, que nao me faça perder tempo, que eu goste. E eu adoro esse processo.*
 
