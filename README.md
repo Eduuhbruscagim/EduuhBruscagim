@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Eduardo Guilherme Bruscagim  
 
 Sou um desenvolvedor que adora colocar minhas ideias na prática.  
-Atualmente, estou já finalizei o curso técnico de **Análise e Desenvolvimento de Sistemas** e estou na FATEC cursando **Engenharia de Software**.  
+Atualmente, finalizei o curso técnico de **Análise e Desenvolvimento de Sistemas** e estou na FATEC cursando **Engenharia de Software**.  
 
 Tenho foco principal em **Back-End** e estou sempre aprimorando meus conhecimentos, busco sempre unir utilidade e design em cada projeto.  
 Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irritantes, porque tempo é precioso demais pra ser desperdiçado.  
