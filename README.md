@@ -43,9 +43,6 @@ Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada de
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduuhBruscagim&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-
-
 </div>
 
 ---
