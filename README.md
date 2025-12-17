@@ -1,46 +1,31 @@
-# 👋 Olá! Eu sou o Eduardo Guilherme Bruscagim  
+# ⚡ Eduardo Guilherme Bruscagim
 
-Sou um desenvolvedor que adora colocar minhas ideias na prática.  
-Atualmente, finalizei o curso técnico de **Análise e Desenvolvimento de Sistemas** e estou na FATEC cursando **Engenharia de Software**.  
+Dev Back-End focado em C# e automação.
+Atualmente graduando em **Análise e Desenvolvimento de Sistemas (FATEC)**.
 
-Tenho foco principal em **Back-End** e estou sempre aprimorando meus conhecimentos, busco sempre unir utilidade e design em cada projeto.  
-Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irritantes, porque tempo é precioso demais pra ser desperdiçado.  
-
----
-
-### 🧠 Sobre mim  
-- 🎯 Foco atual: **Desenvolvimento Back-End**  
-- 🏫 Formação: **Engenharia de Software**  
-- 🌍 Idiomas: **Português (nativo)** | **Inglês (avançado)**  
-- 💡 Interesses: jogos 2D, automação, sistemas web e otimização de desempenho  
-- 📫 Contato: **eduguilhermebruscagim@gmail.com**
+Tenho experiência prática lidando com burocracia real (sim, trabalho em cartório), o que me ensinou que software bom é aquele que economiza tempo e não quebra. Meu foco é criar sistemas performáticos, lógica sólida e arquiteturas limpas.
 
 ---
 
-### 💻 Tecnologias & Ferramentas
-<p align="center">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
+### 🛠 Tech Stack
+**Principal:** C# (.NET), SQL (MySQL)
+**Web/Front:** JavaScript, HTML5, CSS3
+**Ferramentas:** Git, VS Code, Unity
 
 ---
 
-### 🚀 Projetos em Destaque  
+### 🚀 Projetos em Destaque
 
-#### 🎮 **From The Abyss – Jogo & Site (TCC)**  
-Um **jogo de plataforma 2D** desenvolvido na Unity, acompanhado de um site informativo criado para apresentá-lo.  
-Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada detalhe, da programação à identidade visual, pra entregar algo divertido, fluido e bonito.
-
-- **Tecnologias:** HTML5, CSS3, JavaScript, Unity (C#)  
-- **Link do site:** [🔗 Acesse aqui](https://from-the-abyss.vercel.app/)  
-- **Principais aprendizados:** organização de assets, lógica de programação, otimização geral, responsividade e criação de arte.  
+#### 🎮 **From The Abyss – Unity & C# (TCC)**
+Jogo de plataforma 2D onde fui responsável pela arquitetura do código e lógica do sistema.
+- **Desafio:** Gerenciar estados complexos e otimizar a física do jogo para rodar fluido na Web.
+- **Tech:** C# (Scripting), Unity Engine, WebGL.
+- **Resultados:** Liderança técnica do grupo e entrega do produto completo (Game + Landing Page).
+[🔗 Acesse o projeto](https://from-the-abyss.vercel.app/)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=EduuhBruscagim&theme=tokyonight&hide_border=true" height="150"/>
@@ -48,14 +33,8 @@ Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada de
 
 ---
 
-### 🌐 Conecte-se Comigo  
-<div align="center"> 
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/eduuhbruscagim" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+### 📫 Contato
+<div align="center">
+  <a href="mailto:eduguilhermebruscagim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
-
-### ✨ Curiosidade  
-💬 *Para mim o código é a arte de transformar lógica em algo utíl e necessário, que nao me faça perder tempo, que eu goste. E eu adoro esse processo.*
-
