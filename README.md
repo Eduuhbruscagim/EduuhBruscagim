@@ -1,60 +1,61 @@
 # ⚡ Eduardo Guilherme Bruscagim
 
-Sou um desenvolvedor que adora colocar minhas ideias na prática.  
-Atualmente, finalizei o curso técnico de **Análise e Desenvolvimento de Sistemas** e estou na FATEC cursando **Engenharia de Software**.  
+Sou um desenvolvedor focado em resolver problemas reais.  
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC e busco minha primeira oportunidade para aplicar conhecimentos em **C#** e **Web Development**.
 
-Tenho foco principal em **Back-End** e estou sempre aprimorando meus conhecimentos, busco sempre unir utilidade e design em cada projeto.  
-Meu objetivo é criar aplicações úteis, rápidas e livres de anúncios irritantes, porque tempo é precioso demais pra ser desperdiçado.  
+Meu objetivo é criar aplicações performáticas, úteis e com código limpo. Acredito que tecnologia deve otimizar tempo, não desperdiçá-lo.
 
 ---
 
 ### 🧠 Sobre mim  
-- 🎯 Foco atual: **Desenvolvimento Back-End**  
-- 🏫 Formação: **Engenharia de Software**  
-- 🌍 Idiomas: **Português (nativo)** | **Inglês (avançado)**  
-- 💡 Interesses: jogos 2D, automação, sistemas web e otimização de desempenho  
-- 📫 Contato: **eduguilhermebruscagim@gmail.com**
+- 🎯 **Foco:** Back-End (.NET/C#) e Integração Web  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (FATEC)  
+- 🌍 **Idiomas:** Português (Nativo) | Inglês (Avançado)  
+- 💡 **Interesses:** Game Dev, Automação e Arquitetura de Software  
 
 ---
 
 ### 💻 Tecnologias & Ferramentas
-<p align="center">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
+<div align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque  
+### 🚀 Projeto em Destaque  
 
-#### 🎮 **From The Abyss – Jogo & Site (TCC)**  
-Um **jogo de plataforma 2D** desenvolvido na Unity, acompanhado de um site informativo criado para apresentá-lo.  
-Esse projeto foi meu maior desafio até agora, fiz questão de cuidar de cada detalhe, da programação à identidade visual, pra entregar algo divertido, fluido e bonito.
+#### 🎮 **From The Abyss (Full Stack)** Um projeto completo que envolve um **Jogo de Plataforma 2D** (Unity/C#) e um **Portal Web** (JS/CSS) para distribuição e lore.  
+Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de programação orientada a objetos e front-end responsivo.
 
-- **Tecnologias:** HTML5, CSS3, JavaScript, Unity (C#)  
-- **Link do site:** [🔗 Acesse aqui](https://from-the-abyss.vercel.app/)  
-- **Principais aprendizados:** organização de assets, lógica de programação, otimização geral, responsividade e criação de arte.  
+| Componente | Tecnologias | Links |
+| :--- | :--- | :--- |
+| **O Jogo** | Unity, C#, Input System | [📂 Ver Código](LINK_DO_REPO_DO_JOGO) |
+| **O Site** | HTML5, CSS3, Vanilla JS | [📂 Ver Código](LINK_DO_REPO_DO_SITE) • [🌐 Acessar Site](https://from-the-abyss.vercel.app/) |
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
+### 📊 Github Stats
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuhBruscagim&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
 
-### 🌐 Conecte-se Comigo  
-<div align="center"> 
-  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/eduuhbruscagim" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+### 📫 Contato  
+<div align="left"> 
+  <a href="mailto:eduguilhermebruscagim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
 
-### ✨ Curiosidade  
-💬 *Para mim o código é a arte de transformar lógica em algo utíl e necessário, que nao me faça perder tempo, que eu goste. E eu adoro esse processo.*
-
+### ✨ Filosofia  
+💬 *"Para mim, programar é a arte de transformar lógica em soluções úteis e necessárias. Eu adoro esse processo."*
