@@ -55,5 +55,5 @@ Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de pr
 
 ---
 
-### ✨ Filosofia  
-💬 *"Para mim, programar é a arte de transformar lógica em soluções úteis e necessárias. Eu adoro esse processo."*
+### ✨ Minha Filosofia  
+💬 *"Para mim, programar é a arte de transformar ideias em soluções úteis e práticas. E eu adoro esse processo."*
