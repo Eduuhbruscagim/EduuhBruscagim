@@ -28,7 +28,7 @@ Meu objetivo é criar aplicações eficientes na resolução de problemas ou na 
 
 ### 🚀 Projeto em Destaque  
 
-#### 🎮 **From The Abyss (Full Stack)** Um projeto completo que envolve um **Jogo de Plataforma 2D** (Unity/C#) e um **Portal Web** (JS/CSS) para distribuição e lore.  
+#### 🎮 **From The Abyss (Full Stack)**. Um projeto completo que envolve um **Jogo de Plataforma 2D** (Unity/C#) e um **Site** (HTML/JS/CSS) para distribuição e lore.  
 Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de programação orientada a objetos e front-end responsivo.
 
 | Componente | Tecnologias | Links |
