@@ -7,7 +7,7 @@ Meu objetivo é criar aplicações eficientes na resolução de problemas ou na 
 ---
 
 ### 🧠 Sobre mim  
-- 🎯 **Foco:** Back-End (.NET/C#) e Integração Web  
+- 🎯 **Foco:** Back-End e Integração Web  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (FATEC)  
 - 🌍 **Idiomas:** Português (Nativo) | Inglês (Fluente)
 
