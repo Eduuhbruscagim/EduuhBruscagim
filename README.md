@@ -33,8 +33,8 @@ Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de pr
 
 | Componente | Tecnologias | Links |
 | :--- | :--- | :--- |
-| **O Jogo** | Unity, C#, Input System | [📂 Ver Código](LINK_DO_REPO_DO_JOGO) |
-| **O Site** | HTML5, CSS3, Vanilla JS | [📂 Ver Código](LINK_DO_REPO_DO_SITE) • [🌐 Acessar Site](https://from-the-abyss.vercel.app/) |
+| **O Jogo** | Unity, C#, Input System | [📂 Ver Repositório](https://github.com/Eduuhbruscagim/From-The-Abyss) |
+| **O Site** | HTML5, CSS3, Vanilla JS | [🌐 Acessar Site](https://from-the-abyss.vercel.app/) |
 
 ---
 
