@@ -1,17 +1,15 @@
 # ⚡ Eduardo Guilherme Bruscagim
 
-Sou um desenvolvedor focado em resolver problemas reais.  
-Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC e busco minha primeira oportunidade para aplicar conhecimentos em **C#** e **Web Development**.
-
-Meu objetivo é criar aplicações performáticas, úteis e com código limpo. Acredito que tecnologia deve otimizar tempo, não desperdiçá-lo.
+Sou um desenvolvedor focado em resolver problemas que incomodam a maioria das pessoas ao navegar na Web e gosto de criar minhas próprias soluções.  
+Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, focado na resolução de problemas por meio da criação de projetos próprios, com escolha consciente das tecnologias e linguagens.
+Meu objetivo é criar aplicações eficientes na resolução de problemas ou na otimização do tempo, sempre priorizando utilidade, código limpo e sem anúncios. Acredito que a tecnologia deve economizar tempo, não desperdiçá-lo.
 
 ---
 
 ### 🧠 Sobre mim  
 - 🎯 **Foco:** Back-End (.NET/C#) e Integração Web  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (FATEC)  
-- 🌍 **Idiomas:** Português (Nativo) | Inglês (Avançado)  
-- 💡 **Interesses:** Game Dev, Automação e Arquitetura de Software  
+- 🌍 **Idiomas:** Português (Nativo) | Inglês (Fluente)
 
 ---
 
