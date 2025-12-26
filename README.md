@@ -40,7 +40,7 @@ Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de pr
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduuhBruscagim&theme=tokyonight" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduuhBruscagim&theme=tokyonight" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuhBruscagim&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
