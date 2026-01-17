@@ -46,9 +46,10 @@ Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de pr
     height="160"
   />
  <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=EduuhBruscagim&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=EduuhBruscagim&show_icons=true&theme=tokyonight&hide_border=true"
   height="160"
 />
+
 </div>
 
 
