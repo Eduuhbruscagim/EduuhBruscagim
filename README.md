@@ -45,12 +45,10 @@ Foi meu maior desafio técnico, exigindo conhecimentos de física, lógica de pr
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduuhBruscagim&theme=tokyonight" 
     height="160"
   />
-  <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduuhBruscagim&theme=tokyonight"
+ <img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=EduuhBruscagim&theme=tokyonight&hide_border=true"
   height="160"
 />
-
-
 </div>
 
 
