@@ -12,90 +12,93 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e gosto de entender software de ponta a ponta, do problema até a implementação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e gosto de entender software de ponta a ponta, do problema até a implementação. 
 
 Não fico preso a uma única área: construo aplicações web, sistemas, ferramentas e jogos, e também gosto de pegar algo que já existe para **entender como funciona e tentar fazer melhor**.
 
-- 🎯 **Foco:** desenvolvimento de software, Web, UX e engenharia de software
-- 🔨 **Jeito de aprender:** construindo, quebrando e refazendo
-- 🛡️ **Cybersecurity:** formação Ethical Hacker pelo Programa CiberEducação Cisco Brasil
-- 🌍 Português (nativo) · Inglês (fluente)
-- 💬 *Tecnologia deve economizar tempo, não desperdiçá-lo.*
+- 🎯 **Foco:** Desenvolvimento de software, Web, UX e Engenharia de Software
+- 🔨 **Jeito de aprender:** Construindo, quebrando e refazendo
+- 🛡️ **Cybersecurity:** Formação Ethical Hacker pelo Programa CiberEducação Cisco Brasil
+- 🌍 **Idiomas:** Português (Nativo) · Inglês (Fluente)
+- 💬 *"Tecnologia deve economizar tempo, não desperdiçá-lo."*
 
 <br>
 
-## 💻 Stack
+## 💻 Stack Tecnológico
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/Unity-121212?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" />
 </div>
 
 <br>
 
-## 🔭 No que estou trabalhando agora
+## 🚀 Projetos em Destaque
 
-- 🚧 **PodoSys** , sistema de gestão para profissionais de podologia, com agenda, autenticação, dados em tempo real e foco em UX, performance e acessibilidade
-- ✅ **From The Abyss** , jogo 2D + portal web publicados
-- ✅ **Smart Particles** , fork de um mod de Minecraft focado em otimização de performance
-- ✅ **Monitoramento de Condomínio** , plataforma web para comunicação e gestão condominial
-
-<br>
-
-## 🚀 Projetos em destaque
-
-### 🦶 PodoSys
-
-Um sistema pensado para a rotina real de uma profissional de podologia. A ideia é transformar tarefas administrativas em fluxos simples e rápidos, sem sacrificar a experiência de uso.
-
-**JavaScript · Vite · Tailwind CSS · Supabase · Vitest**
-
-📂 [Repositório](https://github.com/Eduuhbruscagim/Sistema-Podologia)
-
----
-
-### 🎮 From The Abyss
-
-Meu **TCC**, desenvolvido de ponta a ponta: um jogo de plataforma 2D em **Unity/C#** acompanhado de um portal web responsivo para distribuição e expansão da história.
-
-Gameplay, física, POO, UI, front-end e deploy, tudo no mesmo projeto.
-
-| Componente | Stack | Link |
-| :--- | :--- | :--- |
-| 🕹️ Jogo | Unity · C# · Input System | [Repositório](https://github.com/Eduuhbruscagim/From-The-Abyss) |
-| 🌐 Site | HTML5 · CSS3 · JavaScript | [Repositório](https://github.com/Eduuhbruscagim/Site-From-The-Abyss) · [Live Demo](https://from-the-abyss.vercel.app/) |
-
----
-
-### ⛏️ Smart Particles
-
-Em vez de começar do zero, peguei um projeto existente e trabalhei na **portabilidade e otimização** do mod, reduzindo trabalho desnecessário no loop principal e melhorando o uso de memória.
-
-**Java · Minecraft Modding**
-
-📂 [Repositório](https://github.com/Eduuhbruscagim/Smart_Particles)
-
----
-
-### 🏢 Monitoramento de Condomínio
-
-Plataforma web para centralizar comunicação, reservas, ocorrências e informações do condomínio em uma interface única.
-
-**HTML · CSS · JavaScript**
-
-📂 [Repositório](https://github.com/Eduuhbruscagim/Monitoramento-de-Condominio)
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦶 <a href="https://github.com/Eduuhbruscagim/Sistema-Podologia">PodoSys</a></h3>
+      <p align="center">
+        <b>Gestão para Profissionais de Podologia</b><br>
+        <i>Pensado para a rotina real. Transforma tarefas administrativas em fluxos simples, sem sacrificar a UX, com dados em tempo real.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 <a href="https://github.com/Eduuhbruscagim/From-The-Abyss">From The Abyss</a></h3>
+      <p align="center">
+        <b>Jogo de Plataforma 2D (TCC)</b><br>
+        <i>Desenvolvido de ponta a ponta em Unity/C# (Gameplay, POO, Física), junto com um <a href="https://from-the-abyss.vercel.app/">Portal Web</a> para distribuição.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⛏️ <a href="https://github.com/Eduuhbruscagim/Smart_Particles">Smart Particles</a></h3>
+      <p align="center">
+        <b>Otimização de Performance (Minecraft Mod)</b><br>
+        <i>Em vez de começar do zero, trabalhei na portabilidade e otimização pesada reduzindo trabalho do loop principal e de memória.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Minecraft_Modding-D2B48C?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 <a href="https://github.com/Eduuhbruscagim/Monitoramento-de-Condominio">Gestão de Condomínio</a></h3>
+      <p align="center">
+        <b>Plataforma Web</b><br>
+        <i>Centraliza comunicação, reservas, ocorrências e informações do condomínio em uma única interface.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -107,7 +110,7 @@ Gosto especialmente de projetos em que o resultado precisa ser **útil, bem pens
 
 <br>
 
-## 📊 GitHub
+## 📊 Analytics
 
 <div align="center">
 
@@ -135,7 +138,5 @@ Gosto especialmente de projetos em que o resultado precisa ser **útil, bem pens
 <br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
-
 </div>
