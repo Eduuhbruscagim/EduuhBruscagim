@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Eduardo%20Bruscagim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Sempre%20Aprendendo%20%7C%20Cybersecurity&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Eduardo%20Bruscagim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Sempre%20Aprendendo&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/Eduuhbruscagim">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+ADS+na+FATEC;Full+Stack+%E2%80%94+fa%C3%A7o+de+tudo%2C+do+zero+ou+refazendo;Ethical+Hacker+%E2%80%94+CiberEduca%C3%A7%C3%A3o+Cisco+Brasil;Sempre+construindo+algo+novo&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=19" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+ADS+na+FATEC;Full+Stack+por+natureza;Construo+produtos%2C+ferramentas+e+experimentos;Sempre+tentando+fazer+software+melhor&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=19" />
 </a>
 
 </div>
@@ -12,10 +12,13 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**
-- 🧩 **Full Stack por natureza**, gosto de entender o software como um todo e de transformar ideias em projetos reais
-- 🔨 Gosto tanto de **criar do zero** quanto de pegar algo existente e **refazer melhor**, incluindo a portabilidade e otimização de um mod de Minecraft
-- 🛡️ **Ethical Hacker certificado**, formado pelo Programa CiberEducação Cisco Brasil em parceria com o Exército Brasileiro
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e gosto de entender software de ponta a ponta, do problema até a implementação.
+
+Não fico preso a uma única área: construo aplicações web, sistemas, ferramentas e jogos, e também gosto de pegar algo que já existe para **entender como funciona e tentar fazer melhor**.
+
+- 🎯 **Foco:** desenvolvimento de software, Web, UX e engenharia de software
+- 🔨 **Jeito de aprender:** construindo, quebrando e refazendo
+- 🛡️ **Cybersecurity:** formação Ethical Hacker pelo Programa CiberEducação Cisco Brasil
 - 🌍 Português (nativo) · Inglês (fluente)
 - 💬 *Tecnologia deve economizar tempo, não desperdiçá-lo.*
 
@@ -29,15 +32,14 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -45,68 +47,63 @@
 
 ## 🔭 No que estou trabalhando agora
 
-- [ ] **PodoSys** , SaaS de gestão para profissionais de podologia, com agenda, autenticação, dados em tempo real e foco em UX
-- [x] ~~**From The Abyss** , jogo 2D + portal web publicados~~ ✅
-- [x] ~~**CiberEducação Cisco** , trilha Ethical Hacker concluída e certificada~~ ✅
-- [x] ~~**Monitoramento de Condomínio** , primeira versão finalizada~~ ✅
-- [x] ~~**Smart Particles** , fork otimizado de um mod de Minecraft~~ ✅
-
-<br>
-
-## 💼 Projeto em destaque
-
-### 🦶 PodoSys
-
-**PodoSys** é um sistema de gestão pensado para a rotina real de profissionais de podologia. O objetivo é transformar tarefas administrativas em fluxos simples, rápidos e previsíveis.
-
-Hoje estou trabalhando principalmente em **experiência de uso, performance, acessibilidade, design system e confiabilidade**, usando:
-
-`JavaScript` · `Vite` · `Tailwind CSS` · `Supabase` · `Vitest`
-
-📂 [Repositório](https://github.com/Eduuhbruscagim/Sistema-Podologia)
+- 🚧 **PodoSys** , sistema de gestão para profissionais de podologia, com agenda, autenticação, dados em tempo real e foco em UX, performance e acessibilidade
+- ✅ **From The Abyss** , jogo 2D + portal web publicados
+- ✅ **Smart Particles** , fork de um mod de Minecraft focado em otimização de performance
+- ✅ **Monitoramento de Condomínio** , plataforma web para comunicação e gestão condominial
 
 <br>
 
 ## 🚀 Projetos em destaque
 
-### 🎮 From The Abyss , *Full Stack*
+### 🦶 PodoSys
 
-Um projeto de TCC que reuniu um **jogo de plataforma 2D em Unity/C#** e um **portal web responsivo** para distribuição e expansão da história.
+Um sistema pensado para a rotina real de uma profissional de podologia. A ideia é transformar tarefas administrativas em fluxos simples e rápidos, sem sacrificar a experiência de uso.
 
-Foi meu maior projeto até então, cobrindo gameplay, física, POO, UI, front-end e deploy.
+**JavaScript · Vite · Tailwind CSS · Supabase · Vitest**
 
-| Parte | Stack | Link |
+📂 [Repositório](https://github.com/Eduuhbruscagim/Sistema-Podologia)
+
+---
+
+### 🎮 From The Abyss
+
+Meu **TCC**, desenvolvido de ponta a ponta: um jogo de plataforma 2D em **Unity/C#** acompanhado de um portal web responsivo para distribuição e expansão da história.
+
+Gameplay, física, POO, UI, front-end e deploy, tudo no mesmo projeto.
+
+| Componente | Stack | Link |
 | :--- | :--- | :--- |
 | 🕹️ Jogo | Unity · C# · Input System | [Repositório](https://github.com/Eduuhbruscagim/From-The-Abyss) |
 | 🌐 Site | HTML5 · CSS3 · JavaScript | [Repositório](https://github.com/Eduuhbruscagim/Site-From-The-Abyss) · [Live Demo](https://from-the-abyss.vercel.app/) |
 
-### 🏢 Monitoramento de Condomínio
-
-Plataforma web criada para centralizar comunicação, reservas, ocorrências, manutenção e informações condominiais em uma interface única.
-
-**Stack:** HTML · CSS · JavaScript
-
-📂 [Repositório](https://github.com/Eduuhbruscagim/Monitoramento-de-Condominio)
+---
 
 ### ⛏️ Smart Particles
 
-Um fork de um mod de Minecraft focado em **otimização de performance**. Trabalhei em culling, cálculo de FOV, uso de memória, referências mortas e pressão de GC.
+Em vez de começar do zero, peguei um projeto existente e trabalhei na **portabilidade e otimização** do mod, reduzindo trabalho desnecessário no loop principal e melhorando o uso de memória.
 
-**Stack:** Java · Minecraft Modding
+**Java · Minecraft Modding**
 
 📂 [Repositório](https://github.com/Eduuhbruscagim/Smart_Particles)
 
+---
+
+### 🏢 Monitoramento de Condomínio
+
+Plataforma web para centralizar comunicação, reservas, ocorrências e informações do condomínio em uma interface única.
+
+**HTML · CSS · JavaScript**
+
+📂 [Repositório](https://github.com/Eduuhbruscagim/Monitoramento-de-Condominio)
+
 <br>
 
-## 🧪 O que gosto de construir
+## 🧩 O que me interessa
 
-**Produtos úteis** , software que resolve um problema específico em vez de apenas existir.
+`Software Design` · `Web` · `Performance` · `UX` · `Game Development` · `Cybersecurity` · `Open Source`
 
-**Interfaces bem pensadas** , gosto de performance, acessibilidade, responsividade e detalhes de UX.
-
-**Experimentos técnicos** , projetos para entender melhor como as coisas funcionam por baixo dos panos.
-
-**Ferramentas** , pequenas soluções que economizam tempo e eliminam trabalho repetitivo.
+Gosto especialmente de projetos em que o resultado precisa ser **útil, bem pensado e agradável de usar**, não apenas tecnicamente possível.
 
 <br>
 
